@@ -1,0 +1,5 @@
+.banner{
+    /* para que o texto fique alinhado no centro da imagem, foi necessario colocar position relative no pai(banner) */
+    /* o titulo estava sendo alinhado ao centro da pagina. */
+    position: relative;
+}

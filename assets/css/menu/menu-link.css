@@ -1,4 +1,4 @@
-.menu-link{
+.menu__link{
     color: #808080;
     margin-right: 1.25rem;
     /* tira a configuração de link */
@@ -8,11 +8,11 @@
 }
 
 /* para usar essa marcação precisa criar o id para que ele faça o link */
-.menu-link.ativo {
+.menu__link.ativo {
     color:#333333;
     font-weight: bold;
 }
 /* ao passar o mouse em cima aparece uma barra abaixo do link */
-.menu-link:hover{
+.menu__link:hover{
     text-decoration: underline;
 }
