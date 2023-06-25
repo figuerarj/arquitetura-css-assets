@@ -1,0 +1,18 @@
+.menu-link{
+    color: #808080;
+    margin-right: 1.25rem;
+    /* tira a configuração de link */
+    text-decoration: none;
+    /* colocar o texto todo em minusculo */
+    text-transform: lowercase;
+}
+
+/* para usar essa marcação precisa criar o id para que ele faça o link */
+.menu-link.ativo {
+    color:#333333;
+    font-weight: bold;
+}
+/* ao passar o mouse em cima aparece uma barra abaixo do link */
+.menu-link:hover{
+    text-decoration: underline;
+}
