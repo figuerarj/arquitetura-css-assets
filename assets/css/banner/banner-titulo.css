@@ -11,3 +11,9 @@
     width: 100%;
 
 }
+
+@media screen and (max-width: 490px) {
+    .banner__titulo{
+        font-size: 4rem;
+    }
+}

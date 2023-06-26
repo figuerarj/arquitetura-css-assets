@@ -2,4 +2,6 @@
   display: flex;
   padding-top: 3rem;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
+

@@ -2,3 +2,24 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (min-width: 0px){
+    .pessoa{
+        margin-bottom: 3rem;
+    }
+
+}
+
+@media screen and (min-width: 700px){
+    .pessoa{
+        margin-bottom: 4rem;
+    }
+
+}
+
+@media screen and (min-width: 1000px){
+    .pessoa{
+        margin-bottom: 0;
+    }
+
+}
