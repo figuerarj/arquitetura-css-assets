@@ -2,5 +2,7 @@
     /* ele desconsidera o tamanho do cabecalho(header) */
     height: calc(100vh - 72px);
     width: 100%;
+    background: url(../../img/banner.jpg) no-repeat center / cover;
+    
     
 }
